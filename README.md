@@ -29,7 +29,7 @@
    $ search
      Artist: AOA
      Title: 심쿵해
-   Found:
+   $ Found:
        2: AOA, 심쿵해, C:\\Music\AOA\심쿵해.mp3 
     ```
 * 노래파일 재생, 목록에서 삭제 (노래 번호사용) , 목록 파일에 저장, 종료
